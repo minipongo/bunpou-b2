@@ -2,7 +2,7 @@
 
 ## Construcción
 
-Para verbos:
+### Para verbos:
 
 - Forma simple (読むと)
 - Formas negativas (よまないと)
@@ -14,3 +14,5 @@ Se excluyen:
   - deseos (～たい)
   - las modales de apariencia (らしい、そうだ、)
   - las formas pasadas (た)
+
+### Para
