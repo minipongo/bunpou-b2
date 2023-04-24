@@ -13,7 +13,8 @@ Existe una forma especialmente usada con la forma de conjetura (お/よう) equi
 ```
 - お金があろうとなかろうと人間としての価値が変わりはない。
 
-Se tenga o no dinero, eso no cambia el valor humano.```
+Se tenga o no dinero, eso no cambia el valor humano.
+```
 
 Se excluyen:
 
