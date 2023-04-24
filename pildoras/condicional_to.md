@@ -64,6 +64,8 @@ Se puede ver el condicionante presentado por と como un detonante que lleva a l
 ```
 この道をまっすぐ行くと左手にきれいなお寺が見えます。
 
+Si sigues por este camino, verás a tu izquierda un hermoso templo. 
+
 ```
 
 ### Para relaciones cronológicas 
