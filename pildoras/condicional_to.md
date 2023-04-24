@@ -1,4 +1,4 @@
-# Uso de とcomo condicional/temporal
+# Uso de と como condicional/temporal
 
 ## Formación 🏗️
 
