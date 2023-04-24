@@ -76,5 +76,8 @@ Al contrario de lo que pasaba con ば, que podía presentar una expresión subje
 
 ### Para relaciones cronológicas 
 
+En este caso la proposición introducida con と establece una sucesión de dos acciones o dos estadods. La oración se refiere a un hecho pasado o presente, que ha ocurrido una vez. Distinguimos 2 casos:
 
+#### Hecho principal fuera de control del locutor/sujeto
+#### Hecho principal bajo el control del locutor/sujeto
 
