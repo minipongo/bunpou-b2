@@ -68,6 +68,12 @@ Si sigues por este camino, verás a tu izquierda un hermoso templo.
 
 ```
 
+Al contrario de lo que pasaba con ば, que podía presentar una expresión subjetiva en la principal, en el caso de と, se reporta objetivamente un hecho por lo que generalmente tiene un carácter declarativo. No se pueden expresar:
+
+* 🚫 Imperativos
+* 🚫 Volitivos
+* 🚫 Expresiones de demanda, consejo, permiso, prohibición, intención...
+
 ### Para relaciones cronológicas 
 
 
