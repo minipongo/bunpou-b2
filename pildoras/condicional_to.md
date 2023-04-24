@@ -40,7 +40,7 @@ Se excluyen:
 
 Tiene dos usos principales:
 
-### Para condicionales
+### Para condicionales 🥕
 
 - Las condiciones basadas en と establecen una consecuencia **natural** o **necesaria**. 
 - Frente a los condicionales con ば que expresan algo más teórico, と, se suele utilizar para algo más práctico y propio de la experiencia del hablante. 
@@ -74,10 +74,13 @@ Al contrario de lo que pasaba con ば, que podía presentar una expresión subje
 * 🚫 Volitivos
 * 🚫 Expresiones de demanda, consejo, permiso, prohibición, intención...
 
-### Para relaciones cronológicas 
+### Para relaciones cronológicas 🥕
 
 En este caso la proposición introducida con と establece una sucesión de dos acciones o dos estadods. La oración se refiere a un hecho pasado o presente, que ha ocurrido una vez. Distinguimos 2 casos:
 
-#### Hecho principal fuera de control del locutor/sujeto
-#### Hecho principal bajo el control del locutor/sujeto
+#### Hecho principal fuera de control del locutor/sujeto 🥬
+
+
+
+#### Hecho principal bajo el control del locutor/sujeto 🥬
 
